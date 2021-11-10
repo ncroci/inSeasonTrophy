@@ -1,0 +1,25 @@
+#nextMatchup {
+    display: flex;
+    justify-content: space-between;
+    border: 10px solid black;
+}
+
+#champPic img {
+    width: 250px;
+}
+
+#challengePic img {
+    width: 250px;
+}
+
+#champDiv {
+    margin: 25px;
+}
+
+#challengeDiv {
+    margin: 25px;
+}
+
+.record {
+    text-align: center;
+}
